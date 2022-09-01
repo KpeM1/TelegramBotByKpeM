@@ -7,3 +7,6 @@ Sends a screenshot of the screen to a chat with your telegram bot.
 It can be used to track what is happening on a PC.
 
 ![.](https://i.imgur.com/Os656vb.png "main") ![.](https://i.imgur.com/0BthC0t.png "settings")
+
+>
+> We need some microsoft c# libraries to work.
